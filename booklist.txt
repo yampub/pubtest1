@@ -137,7 +137,7 @@ book:
 
 ## 22
 
-book:
+book: ONE PIECE
 
 ---
 
