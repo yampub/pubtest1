@@ -197,7 +197,7 @@ book:ドラゴンボール
 
 ## 32
 
-book:
+book:Just Bcause!
 
 ---
 
