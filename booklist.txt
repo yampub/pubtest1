@@ -59,7 +59,7 @@ book:
 
 ## 09
 
-book:
+book:one-piece100巻
 
 ---
 
